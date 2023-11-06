@@ -158,7 +158,8 @@
             "image": "https://res.cloudinary.com/startup-grind/image/upload/c_scale,w_2560/c_crop,h_640,w_2560,y_0.47_mul_h_sub_0.47_mul_640/c_crop,h_640,w_2560/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/event_banners/Info%20Session_OWGEtD2.png",
             "time": "Friday, August 25, 2023, 8:00-9:00 PM GMT+5:30",
             "venue": "Virtual",
-            "href": "https://gdsc.community.dev/events/details/developer-student-clubs-asansol-engineering-college-asansol-presents-info-session/"
+            "href": "https://gdsc.community.dev/events/details/developer-student-clubs-asansol-engineering-college-asansol-presents-info-session/",
+            "status":"Upcoming"
         },
         {
             "title": "Code Sprint 1 Discussion",
@@ -166,7 +167,8 @@
             "image": "https://res.cloudinary.com/startup-grind/image/upload/c_scale,w_2560/c_crop,h_640,w_2560,y_0.11_mul_h_sub_0.11_mul_640/c_crop,h_640,w_2560/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/event_banners/CodeSprint.png",
             "time": "Sunday, September 3, 2023, 8:00-8:45 PM GMT+5:30",
             "venue": "Virtual",
-            "href": "https://gdsc.community.dev/events/details/developer-student-clubs-asansol-engineering-college-asansol-presents-code-sprint-1-discussion/"
+            "href": "https://gdsc.community.dev/events/details/developer-student-clubs-asansol-engineering-college-asansol-presents-code-sprint-1-discussion/",
+            "status":"Upcoming"
         },
         {
             "title": "Introduction to Web Technologies",
@@ -174,7 +176,8 @@
             "image": "https://res.cloudinary.com/startup-grind/image/fetch/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/https://res.cloudinary.com/startup-grind/image/upload/c_fill%2Cdpr_2.0%2Cf_auto%2Cg_center%2Cq_auto:good/v1/gcs/platform-data-dsc/event_banners/gdev-eccosystems-bevy-chapters-thumbnail_NP7kmba.png",
             "time": "September 16, 2023 at 7:30 PM GMT+5:30-September 19, 2023 at 10:10 PM GMT+5:30",
             "venue": "Virtual",
-            "href": "https://gdsc.community.dev/events/details/developer-student-clubs-asansol-engineering-college-asansol-presents-introduction-to-web-technologies/"
+            "href": "https://gdsc.community.dev/events/details/developer-student-clubs-asansol-engineering-college-asansol-presents-introduction-to-web-technologies/",
+            "status":"Upcoming"
         },
         {
             "title": "Introduction to Google Cloud Study Jam",
@@ -182,7 +185,8 @@
             "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/1pzypmryh6c41_fKhmGRV_cV5eEYD.png",
             "time": "Sunday, September 24, 2023, 7:30-10:00 PM GMT+5:30",
             "venue": "Virtual",
-            "href": "https://gdsc.community.dev/events/details/developer-student-clubs-asansol-engineering-college-asansol-presents-introduction-to-google-cloud-study-jam/"
+            "href": "https://gdsc.community.dev/events/details/developer-student-clubs-asansol-engineering-college-asansol-presents-introduction-to-google-cloud-study-jam/",
+            "status":"Upcoming"
         },
         {
             "title": "DSA Essentials: Building Blocks for Placements and CP",
@@ -190,7 +194,8 @@
             "image": "https://res.cloudinary.com/startup-grind/image/fetch/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/https://res.cloudinary.com/startup-grind/image/upload/c_fill%2Cdpr_2.0%2Cf_auto%2Cg_center%2Cq_auto:good/v1/gcs/platform-data-dsc/event_banners/gdev-eccosystems-bevy-chapters-thumbnail_fMd5BWp.png",
             "time": "Thursday, September 28, 2023, 7:30-10:00 PM GMT+5:30",
             "venue": "Virtual",
-            "href": "https://gdsc.community.dev/events/details/developer-student-clubs-asansol-engineering-college-asansol-presents-dsa-essentials-building-blocks-for-placements-and-cp/"
+            "href": "https://gdsc.community.dev/events/details/developer-student-clubs-asansol-engineering-college-asansol-presents-dsa-essentials-building-blocks-for-placements-and-cp/",
+            "status":"Upcoming"
         },
         {
             "title": "HacktoberFest",
@@ -198,7 +203,8 @@
             "image": "https://res.cloudinary.com/startup-grind/image/upload/c_scale,w_2560/c_crop,h_640,w_2560,y_0.03_mul_h_sub_0.03_mul_640/c_crop,h_640,w_2560/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/event_banners/Poster_RgoVQ20.jpeg",
             "time": "October 1, 2023 at 9:15 AM GMT+5:30-October 31, 2023 at 9:16 AM GMT+5:30",
             "venue": "Virtual",
-            "href": "https://gdsc.community.dev/events/details/developer-student-clubs-asansol-engineering-college-asansol-presents-hacktoberfest/"
+            "href": "https://gdsc.community.dev/events/details/developer-student-clubs-asansol-engineering-college-asansol-presents-hacktoberfest/",
+            "status":"Upcoming"
         },
         {
             "title": "Networking on Linkedin",
@@ -206,7 +212,8 @@
             "image": "https://res.cloudinary.com/startup-grind/image/fetch/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/https://res.cloudinary.com/startup-grind/image/upload/c_fill%2Cdpr_2.0%2Cf_auto%2Cg_center%2Cq_auto:good/v1/gcs/platform-data-dsc/event_banners/gdev-eccosystems-bevy-chapters-thumbnail_fMd5BWp.png",
             "time": "Thursday, October 12, 2023, 7:30-10:00 PM GMT+5:30",
             "venue": "Virtual",
-            "href": "https://gdsc.community.dev/events/details/developer-student-clubs-asansol-engineering-college-asansol-presents-networking-on-linkedin/"
+            "href": "https://gdsc.community.dev/events/details/developer-student-clubs-asansol-engineering-college-asansol-presents-networking-on-linkedin/",
+            "status":"Upcoming"
         }
     ]
 }
